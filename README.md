@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeadpython
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning python
+- 🌱 I’m currently Advanced Beginner in python
 - 💞️ I’m looking to collaborate on new things
 - 📫 How to reach me yeadpython@gmail.com
 
